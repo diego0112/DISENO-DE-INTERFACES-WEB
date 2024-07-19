@@ -1,0 +1,15 @@
+#info::before{
+    content: ' » ';
+    color: white;
+}
+
+#btn-nav {
+    background-color: #002244;
+    color: white;
+}
+
+#btn-nav:hover{
+    background: #fff;
+    color: #002244;
+}
+
